@@ -8,7 +8,7 @@ I have given a series of talks on the creation of strategy; the series was recor
 This is a talk I gave on IoT at the Tech4Health conference.
 
 ### Cloud Computing
-You can get a preview on Amazon of my book on cloud computing that has been published by MIT Press.
+You can get a preview on [Amazon](https://www.amazon.co.uk/Cloud-Computing-Press-Essential-Knowledge-ebook/dp/B01FLE5JH8/ref=sr_1_1?ie=UTF8&qid=1499385755&sr=8-1&keywords=nayan+cloud#reader_B01FLE5JH8) of my book on cloud computing that has been published by MIT Press.
 
 ### SDLC Models
 This is a paper I wrote on software development life-cycle models, which was published by the Software Engineering Notes of the ACM (the US equivalent of the British Computer Society).
