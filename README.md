@@ -4,7 +4,7 @@
 ### Creating a Strategy
 I have given a series of talks on the creation of strategy; the series was recorded and is now part of HP’s learning portal for its 250,000 employees. I am including Part 1 of the lecture with HP-specific material removed.
 
-### [IoT Presentation](#portfolio/IoT Presentation_22 Apr 2015.pdf)
+### [IoT Presentation](#portfolio/IoT Presentation_22%20Apr%202015.pdf)
 This is a talk I gave on IoT at the Tech4Health conference.
 
 ### Cloud Computing
