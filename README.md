@@ -13,7 +13,7 @@ You can get a preview on [Amazon](https://www.amazon.co.uk/Cloud-Computing-Press
 ### SDLC Models
 This is a paper I wrote on software development life-cycle models, which was published by the Software Engineering Notes of the ACM (the US equivalent of the British Computer Society).
  
-### History of Version Control Systems
+### [History of Version Control Systems](https://github.com/nayan108/portfolio/blob/master/History%20of%20Version%20Control.pdf)
 A paper on version control systems that was published by the ACM.
 
 ### Interactive Javascript Web App
