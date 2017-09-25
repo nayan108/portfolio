@@ -19,4 +19,4 @@ A paper on version control systems that was published by the ACM.
 ### Interactive Javascript [Web App](https://github.com/nayan108/portfolio/blob/master/digital%20programming.zip?raw=true)
 Javascript web app that provides user interactivity and big data handling capabilities in the context of front-end graphics.
  
-The above is a sample of my portfolio that demonstrates my experience as a software systems engineer.
+The above is a sample of my portfolio that demonstrates my experience as a sysems/solutions architect.
