@@ -2,7 +2,7 @@
 
 
 ### [Creating a Strategy](https://github.com/nayan108/portfolio/blob/master/NR%20Creating%20a%20Strategy%20Part%201.Apr%202016.pdf)
-I have given a series of talks on the creation of strategy; the series was recorded and is now part of HP’s learning portal for its 250,000 employees. I am including Part 1 of the lecture with HP-specific material removed.
+I have given a series of talks on the creation of strategy; the series was recorded and is now part of Hewlett Packard Enterprise Services's learning portal for its ~300,000 employees. I am including Part 1 of the lecture with HP-specific material removed.
 
 ### [IoT Presentation](https://github.com/nayan108/portfolio/blob/master/IoT%20Presentation_22%20Apr%202015.pdf)
 This is a talk I gave on IoT at the Tech4Health conference.
